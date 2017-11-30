@@ -1,4 +1,4 @@
-# Teacher_Studenr_Chat
+# Teacher_Student_Chat
 Student-Teacher Interaction Application:
 This project focuses on building a simple yet effective method for a student to get across doubts to a community of students as well as teachers. 
 This is achieved by using a program that lets students register an account and post their doubts on a forum where everyone is able to view as well as answer the doubts.
